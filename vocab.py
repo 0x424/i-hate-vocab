@@ -2,7 +2,7 @@ import xlrd
 import difflib
 
 print("locating files..")
-f1=xlrd.open_workbook("/Users/steve/Desktop/Junsung Lee - (1601-1800).xlsx")
+f1=xlrd.open_workbook("/Users/steve/Desktop/test_file.xlsx")
 f1s=f1.sheet_by_index(0)
 f2=xlrd.open_workbook("/Users/steve/Desktop/file2.xlsx")
 f2s=f2.sheet_by_index(0)
