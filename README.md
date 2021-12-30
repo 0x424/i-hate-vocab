@@ -1,8 +1,5 @@
 # i-hate-vocab
 
-i take vocab tests in academy
-
-glad it's an online test
 
 this compares words from excel and prints exact with/or close matches
 
